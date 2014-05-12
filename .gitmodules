@@ -1,3 +1,6 @@
 [submodule "sub"]
 	path = sub
 	url = git@github.com:natxo-kodify/submodule.git
+[submodule "sub2"]
+	path = sub2
+	url = git@github.com:natxo-kodify/submodule.git
